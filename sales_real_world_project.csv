@@ -1,0 +1,121 @@
+order_id,order_date,customer_id,region,product_category,sales_amount,quantity,sales_rep,discount_percent,payment_mode,returned
+1001,01-01-2022,238,West,Electronics,8000,4,Riya,0,UPI,No
+1002,08-01-2022,251,North,Office Supplies,8000,1,Unknown,5,UPI,No
+1003,15-01-2022,228,Unknown,Office Supplies,5000,1,John,10,Card,No
+1004,22-01-2022,214,West,Electronics,1500,1,Riya,0,NetBanking,No
+1005,29-01-2022,242,North,Furniture,1500,1,Neha,10,Card,No
+1006,05-02-2022,207,North,Electronics,5000,1,Riya,5,Cash,No
+1007,12-02-2022,220,West,Office Supplies,1500,3,Amit,0,UPI,No
+1008,19-02-2022,238,East,Furniture,0,1,Riya,20,UPI,Yes
+1009,26-02-2022,257,East,Office Supplies,3000,2,Riya,20,UPI,No
+1010,05-03-2022,218,West,Electronics,8000,3,Neha,0,Cash,No
+1011,12-03-2022,222,North,Electronics,5000,1,Amit,0,Cash,No
+1012,19-03-2022,210,South,Office Supplies,3000,3,Unknown,10,Card,No
+1013,26-03-2022,210,North,Clothing,-500,1,Unknown,10,Card,No
+1014,02-04-2022,223,West,Clothing,3000,1,Neha,0,Card,No
+1015,09-04-2022,252,East,Electronics,12000,3,Neha,0,NetBanking,No
+1016,16-04-2022,235,South,Electronics,0,3,Riya,0,UPI,No
+1017,23-04-2022,239,North,Clothing,3000,4,John,5,UPI,No
+1018,30-04-2022,223,South,Clothing,5000,3,Neha,5,Card,No
+1019,07-05-2022,202,South,Office Supplies,5000,3,Amit,0,UPI,No
+1020,14-05-2022,221,East,Office Supplies,5000,1,John,5,Card,No
+1021,21-05-2022,252,East,Clothing,5000,1,John,10,NetBanking,No
+1022,28-05-2022,201,West,Office Supplies,1500,3,John,0,NetBanking,No
+1023,04-06-2022,223,South,Office Supplies,1500,3,Neha,0,Cash,No
+1024,11-06-2022,243,North,Furniture,5000,,Neha,10,NetBanking,No
+1025,18-06-2022,229,East,Office Supplies,5000,2,Riya,20,Card,No
+1026,25-06-2022,237,West,Electronics,5000,2,John,5,NetBanking,No
+1027,02-07-2022,201,East,Office Supplies,8000,3,John,5,Cash,No
+1028,09-07-2022,259,West,Office Supplies,3000,2,Amit,0,UPI,No
+1029,16-07-2022,220,South,Clothing,3000,4,Amit,5,Card,No
+1030,23-07-2022,232,East,Electronics,5000,4,Riya,5,UPI,No
+1031,30-07-2022,211,South,Office Supplies,3000,2,John,0,Cash,No
+1032,06-08-2022,257,North,Office Supplies,5000,3,Unknown,0,Cash,Yes
+1033,13-08-2022,221,North,Furniture,5000,3,Amit,0,Cash,No
+1034,20-08-2022,243,North,Office Supplies,8000,1,Neha,0,UPI,No
+1035,27-08-2022,224,East,Office Supplies,1500,4,Riya,0,UPI,Yes
+1036,03-09-2022,248,South,Furniture,1500,2,Unknown,0,UPI,No
+1037,10-09-2022,226,East,Clothing,-500,3,John,0,UPI,No
+1038,17-09-2022,258,West,Office Supplies,3000,2,John,0,Cash,No
+1039,24-09-2022,241,North,Furniture,,4,Riya,20,Cash,No
+1040,01-10-2022,227,South,Electronics,3000,2,Riya,5,Card,No
+1041,08-10-2022,259,West,Clothing,3000,1,Riya,10,Card,No
+1042,15-10-2022,215,North,Electronics,1500,4,Amit,10,UPI,No
+1043,22-10-2022,214,North,Electronics,3000,1,John,5,NetBanking,No
+1044,29-10-2022,246,South,Furniture,,2,John,0,NetBanking,No
+1045,05-11-2022,250,North,Office Supplies,,,Unknown,5,Cash,No
+1046,12-11-2022,243,West,Furniture,5000,,Unknown,5,Cash,No
+1047,19-11-2022,254,West,Furniture,1500,2,Neha,10,Cash,No
+1048,26-11-2022,251,East,Furniture,-500,3,John,5,Card,No
+1049,03-12-2022,256,West,Furniture,3000,2,John,0,Card,No
+1050,10-12-2022,202,West,Clothing,5000,1,John,0,Cash,No
+1051,17-12-2022,236,North,Office Supplies,1500,2,Amit,0,Cash,No
+1052,24-12-2022,250,West,Electronics,3000,3,Riya,5,Cash,No
+1053,31-12-2022,206,East,Electronics,-500,3,Amit,5,NetBanking,No
+1054,07-01-2023,220,West,Office Supplies,,3,Unknown,0,Card,Yes
+1055,14-01-2023,208,West,Electronics,3000,3,Neha,,NetBanking,No
+1056,21-01-2023,238,South,Office Supplies,3000,1,Amit,5,NetBanking,No
+1057,28-01-2023,217,North,Electronics,3000,2,Neha,0,Cash,No
+1058,04-02-2023,203,North,Furniture,5000,1,Neha,0,Cash,No
+1059,11-02-2023,224,South,Electronics,8000,2,Riya,0,UPI,No
+1060,18-02-2023,259,West,Office Supplies,3000,2,Amit,0,UPI,Yes
+1061,25-02-2023,213,West,Office Supplies,1500,4,Neha,0,NetBanking,No
+1062,04-03-2023,249,North,Office Supplies,5000,2,Neha,0,Card,No
+1063,11-03-2023,257,East,Office Supplies,1500,1,John,0,Cash,No
+1064,18-03-2023,208,South,Office Supplies,3000,1,Neha,0,Cash,Yes
+1065,25-03-2023,225,North,Clothing,,3,John,20,NetBanking,No
+1066,01-04-2023,252,North,Clothing,,3,Neha,0,UPI,No
+1067,08-04-2023,201,South,Electronics,8000,1,Neha,5,Card,No
+1068,15-04-2023,219,West,Office Supplies,5000,1,John,5,UPI,No
+1069,22-04-2023,227,South,Electronics,5000,3,Riya,,UPI,No
+1070,29-04-2023,246,East,Office Supplies,1500,1,Amit,0,UPI,Yes
+1071,06-05-2023,259,East,Office Supplies,0,3,Amit,0,UPI,No
+1072,13-05-2023,206,South,Clothing,0,3,John,,Cash,No
+1073,20-05-2023,243,Unknown,Clothing,1500,1,Neha,20,Cash,Yes
+1074,27-05-2023,207,Unknown,Furniture,3000,1,Neha,10,UPI,No
+1075,03-06-2023,246,South,Clothing,5000,,Amit,0,Card,No
+1076,10-06-2023,234,South,Furniture,3000,2,Amit,0,NetBanking,No
+1077,17-06-2023,213,South,Furniture,1500,2,Amit,10,Card,No
+1078,24-06-2023,216,South,Furniture,8000,3,Riya,20,Card,No
+1079,01-07-2023,235,North,Furniture,5000,4,Neha,5,Card,No
+1080,08-07-2023,249,East,Furniture,3000,,Riya,5,UPI,No
+1081,15-07-2023,239,East,Electronics,3000,3,Riya,0,Cash,No
+1082,22-07-2023,203,North,Clothing,1500,2,John,10,Card,No
+1083,29-07-2023,201,South,Furniture,1500,1,Riya,0,UPI,No
+1084,05-08-2023,205,West,Office Supplies,1500,3,Neha,0,Card,No
+1085,12-08-2023,253,North,Clothing,5000,2,John,5,Card,No
+1086,19-08-2023,241,North,Clothing,,2,Riya,5,UPI,No
+1087,26-08-2023,203,South,Furniture,-500,4,Neha,0,Cash,No
+1088,02-09-2023,253,Unknown,Electronics,,1,John,0,Cash,Yes
+1089,09-09-2023,228,North,Furniture,,2,John,5,NetBanking,No
+1090,16-09-2023,217,East,Electronics,5000,1,Amit,0,UPI,No
+1091,23-09-2023,225,West,Office Supplies,5000,2,John,5,NetBanking,No
+1092,30-09-2023,243,North,Clothing,3000,1,Riya,0,NetBanking,Yes
+1093,07-10-2023,233,East,Office Supplies,-500,1,Riya,5,NetBanking,No
+1094,14-10-2023,209,South,Electronics,3000,1,Riya,5,Cash,No
+1095,21-10-2023,235,East,Electronics,3000,3,Unknown,0,UPI,No
+1096,28-10-2023,213,East,Office Supplies,0,3,Riya,0,NetBanking,Yes
+1097,04-11-2023,230,East,Electronics,3000,2,Riya,0,UPI,No
+1098,11-11-2023,247,North,Office Supplies,1500,,Neha,0,UPI,No
+1099,18-11-2023,214,West,Clothing,3000,2,Amit,,Cash,No
+1100,25-11-2023,207,South,Office Supplies,3000,1,Amit,0,NetBanking,No
+1101,02-12-2023,213,North,Clothing,,4,Amit,10,NetBanking,No
+1102,09-12-2023,222,North,Office Supplies,1500,1,Amit,0,UPI,Yes
+1103,16-12-2023,259,East,Electronics,3000,,Amit,10,Card,No
+1104,23-12-2023,256,East,Office Supplies,3000,1,Amit,10,Cash,No
+1105,30-12-2023,239,North,Electronics,5000,,Neha,5,Cash,No
+1106,06-01-2024,220,East,Office Supplies,3000,1,Amit,5,Cash,No
+1107,13-01-2024,215,North,Office Supplies,0,4,Riya,5,Cash,No
+1108,20-01-2024,244,East,Furniture,,2,John,0,NetBanking,No
+1109,27-01-2024,217,North,Electronics,3000,,Riya,20,NetBanking,No
+1110,03-02-2024,246,East,Furniture,,1,Neha,10,Card,No
+1111,10-02-2024,252,South,Electronics,3000,2,Amit,,Cash,No
+1112,17-02-2024,223,West,Furniture,8000,,Amit,0,Cash,Yes
+1113,24-02-2024,225,North,Clothing,3000,2,Amit,10,UPI,Yes
+1114,02-03-2024,224,South,Office Supplies,1500,3,Amit,20,NetBanking,No
+1115,09-03-2024,259,North,Electronics,3000,3,Riya,0,Cash,Yes
+1116,16-03-2024,259,West,Electronics,3000,2,Amit,0,Card,No
+1117,23-03-2024,259,West,Office Supplies,3000,3,Amit,10,Card,No
+1118,30-03-2024,244,South,Electronics,8000,2,Amit,5,NetBanking,No
+1119,06-04-2024,240,East,Electronics,1500,4,Riya,10,Card,No
+1120,13-04-2024,228,West,Furniture,8000,1,Amit,0,Card,No
