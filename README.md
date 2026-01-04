@@ -1,26 +1,31 @@
-## Sales Analytics Project
+# Sales Data Analysis Project
 
-### Objective:
-Analyze sales data to identify revenue trends, high-performing regions,
-returned order impact, and business insights.
+## Business Problem
+The company wants to analyze sales performance across regions,
+identify top-performing products, and understand the impact of returns.
 
-### Tools Used:
+## Tools Used
 - Python (Pandas, NumPy)
-- SQL (Window Functions, Aggregations)
+- SQL (Window Functions, Joins)
 - Excel
 
-### Key Analysis:
+## Dataset
+- Real-world messy sales data
+- Missing values, unknown regions, returned orders
+
+## Data Cleaning
+- Filled missing quantity using median
+- Marked unknown regions as NULL
+- Returned orders analyzed separately
+
+## Analysis Performed
 - Region-wise average sales
+- Top revenue generating orders
 - Monthly & yearly sales trends
-- Top revenue orders
-- Returned orders revenue impact
-- SQL-based insights
+- Product category performance
+- Revenue impact of returns
 
-### Business Insights:
-- Returned orders contribute ~X% revenue loss.
-- West region shows highest average sales.
-- Electronics category drives maximum revenue.
-
-### Outcome:
-This analysis helps business teams reduce return losses
-and optimize regional sales strategy.
+## Key Insights
+- Electronics category generated highest revenue
+- Returned orders caused revenue loss
+- Strong growth observed after 2022
