@@ -47,6 +47,7 @@ Returned_revenue= df.loc[df['returned'] == "Yes",'sales_amount'].sum().round()
 print('return order',Returned_revenue)  
 
 impact_percentage = ((Returned_revenue/total_revenue)*100).round()
-# 2f ko 2 decial point tk rhkega 
+ 
 print(f"Impact on revenue (%): {impact_percentage:.2f}%")
+
 
